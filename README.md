@@ -173,10 +173,6 @@ See [Development Guide](docs/development.md) for more information.
 - Input validation
 - Secure cookie handling
 
-## 📝 License
-
-AGPL-3.0 License - See LICENSE file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please read the [Development Guide](docs/development.md) before submitting PRs.
